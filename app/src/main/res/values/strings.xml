@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">APROT</string>
+    <string name="open_drawer">abrir</string>
+    <string name="close_drawer">fechar</string>
+
+    <string-array name="tipo">
+        <item>ALIMENTAÇÃO</item>
+        <item>TRANSPORTE</item>
+        <item>HOSPEDAGEM</item>
+        <item>EXCESSO DE BAGAGEM</item>
+        <item>COMBUSTÍVEL</item>
+        <item>OUTROS</item>
+    </string-array>
+</resources>

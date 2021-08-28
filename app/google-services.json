@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "226071742761",
+    "firebase_url": "https://aprot-b6c08-default-rtdb.firebaseio.com",
+    "project_id": "aprot-b6c08",
+    "storage_bucket": "aprot-b6c08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226071742761:android:04b36e974a3bd063d90f38",
+        "android_client_info": {
+          "package_name": "com.mbappsoftware.aprot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226071742761-nna0993fthc1j133guc4kkhq1vo6g7ho.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mbappsoftware.aprot",
+            "certificate_hash": "5a3c3659376869e67fb56ec30f9431e612bdd60d"
+          }
+        },
+        {
+          "client_id": "226071742761-mvevbm15r2nlho1gb2s13m2gvjam3215.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgdsYyVcKSMa45uNUiwECGGNlg-VoAkfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226071742761-mvevbm15r2nlho1gb2s13m2gvjam3215.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
